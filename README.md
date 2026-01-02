@@ -1,5 +1,5 @@
 # Hi, I'm sharanya yadav 
-**Python Full-Stack Developer — FastAPI/Django • React • SQL • REST APIs • Docker • CI/CD
+**java Full-Stack Developer — FastAPI/Django • React • SQL • REST APIs • Docker • CI/CD
 
 🔭 Current project: ToDO APP (Auth + Django + MySQL)
 ✅ I write tests with pytest and use GitHub Actions (CI)
